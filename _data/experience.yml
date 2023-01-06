@@ -5,23 +5,21 @@
   duration: Fall 2018 - Present
   summary: Medusa & Skadi Federated Learning Platform
   <ul class="resume-item-list">
-  <li>Collaborated with UX designers and product managers, kept launching new products, iterated on existing
-features by using Vue tech stack typescript</li>
-<li>Designed the extensible platform to be modular which can easily add, delete analysis methods</li>
-<li>esigned Restful APIs with Back-End team by following REST principles</li>
-<li>mplemented Web Reomte Attestation with Back-End team by using AES RSA encryption algorithm</li>
-<li>mported i18n features in platform</li>
-</ul>
+    <li>Collaborated with UX designers and product managers, kept launching new products, iterated on existing
+    features by using Vue tech stack typescript</li>
+    <li>Designed the extensible platform to be modular which can easily add, delete analysis methods</li>
+    <li>Designed Restful APIs with Back-End team by following REST principles</li>
+    <li>Implemented Web Reomte Attestation with Back-End team by using AES RSA encryption algorithm</li>
+    <li>Imported i18n features in platform</li>
+   </ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Beijing Auto-industrial investment Inc.
+  position: Front-End Engineer, Intern
+  duration:  Summer 2016 – Fall 2016
+  summary: YouPu wallet
+  <ul class="resume-item-list">
+    <li>Implemented HTML5 web part inside hybrid APP</li>
+    <li>Implemented adaptive design by using fluid grid, rem units and media query module in CSS3</li>
+    <li>Designed several Restful API with Back-End team by following REST principles</li>
+  </ul>
