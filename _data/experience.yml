@@ -3,7 +3,8 @@
 - company: Novo Vivo Inc. (Palo Alto, CA)
   position: Front-End Engineer
   duration: Fall 2018 - Present
-  summary: <ul class="resume-item-list">
+  summary: Medusa & Skadi Federated Learning Platform
+  <ul class="resume-item-list">
   <li>Collaborated with UX designers and product managers, kept launching new products, iterated on existing
 features by using Vue tech stack typescript</li>
 <li>Designed the extensible platform to be modular which can easily add, delete analysis methods</li>
